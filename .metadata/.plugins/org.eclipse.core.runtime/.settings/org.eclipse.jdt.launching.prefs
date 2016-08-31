@@ -1,0 +1,3 @@
+#Wed Jul 06 22:21:03 CST 2016
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1467381366616" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="pulse_com.sun.java.jdk.win32.x86_64_1.6.0.013" name\="Sun JDK 1.6.0_13" path\="F\:\\MyWork\\Server\\Common\\binary\\com.sun.java.jdk.win32.x86_64_1.6.0.013"/>\r\n<vm id\="1467381366616" name\="Java" path\="F\:\\MyWork\\Java"/>\r\n</vmType>\r\n</vmSettings>\r\n

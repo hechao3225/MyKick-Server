@@ -1,0 +1,14 @@
+#Fri Jul 01 21:57:05 CST 2016
+tomcat7Server.LoginTest.noFileCopy=false
+tomcat7Server.LoginTest.IEARProjectName=
+tomcat7Server.LoginTest.contextRoot=/ROOT
+tomcat7Server.LoginTest.shouldBackup=true
+tomcat7Server.LoginTest.deployIsOverProject=false
+tomcat7Server.LoginTest.isExploded=true
+tomcat7Server.LoginTest.shouldOverwrite=false
+eclipse.preferences.version=1
+tomcat7Server.LoginTest.isUptoDate=true
+tomcat7Server.LoginTest.type=WebDeployment
+tomcat7Server.LoginTest.altContextRoot=
+tomcat7Server.LoginTest.deploymentPath=F\:\\MyWork\\Server\\apache-tomcat-7.0.57-windows-x64\\apache-tomcat-7.0.57\\webapps\\ROOT
+tomcat7Server.LoginTest.isDeployed=true

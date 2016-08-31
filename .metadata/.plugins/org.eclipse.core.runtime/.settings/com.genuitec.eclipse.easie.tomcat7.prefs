@@ -1,0 +1,10 @@
+#Fri Jul 01 22:36:06 CST 2016
+TOMCAT_HOME=F\:\\MyWork\\Server\\apache-tomcat-7.0.57-windows-x64\\apache-tomcat-7.0.57
+TOMCAT_TEMP=F\:\\MyWork\\Server\\apache-tomcat-7.0.57-windows-x64\\apache-tomcat-7.0.57\\temp
+LIBRARY_PATH="F\:\\MyWork\\Java\\bin;F\:\\MyWork\\Server\\apache-tomcat-7.0.57-windows-x64\\apache-tomcat-7.0.57\\bin"
+TOMCAT_BASE=F\:\\MyWork\\Server\\apache-tomcat-7.0.57-windows-x64\\apache-tomcat-7.0.57
+ENDORSED_DIRS="F\:\\MyWork\\Server\\apache-tomcat-7.0.57-windows-x64\\apache-tomcat-7.0.57/common/endorsed"
+eclipse.preferences.version=1
+JDK_INSTALLATION_NAME=Java
+JDK_HOME=F\:\\MyWork\\Java
+SERVER_ENABLEMENT=true

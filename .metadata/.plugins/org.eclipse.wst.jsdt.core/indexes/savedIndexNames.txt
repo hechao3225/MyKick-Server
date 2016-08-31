@@ -1,0 +1,5 @@
+INDEX VERSION 1.122+F:\MyWork\projects\JsonParser-server\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1865328463.index
+6209979.index
+442556208.index
+2732848197.index
